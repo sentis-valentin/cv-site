@@ -1,0 +1,32 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "CV"
+theme = "awesome-identity"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/cropped.png"
+  firstname = "Valentin"
+  lastname = "Sentis"
+  title = "Doctorant en histoire médiévale - Lyon 2"
+  bio = """John Smith brings over 40 years experience leading, contributing to, and growing engineering organizat>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et lacinia metus. Aliquam venenatis, orci orn>
+
+  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+  """
+
+## Contacts Configurations
+[params.contacts]
+  cv = "Awesome_CV__2_.pdf"
+  linkedin = "valentin-sentis-041a031b6"
+  email = "v.sentis@univ-lyon2.fr"
+  github = "sentis-valentin"
+  
+
+
+## Footer Configurations
+[params.footer]
+  copyright = "© Byungjin Park. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = false
